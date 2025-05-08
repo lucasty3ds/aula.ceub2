@@ -27,3 +27,7 @@ Códigos desenvolvidos durante as aulas no CEUB.
 ```bash
 gcc caminho/para/o/arquivo.c -o nome_do_programa
 ./nome_do_programa
+
+---
+
+## 📁 Como exportar os códigos para um repositório no Github
