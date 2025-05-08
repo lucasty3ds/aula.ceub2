@@ -6,18 +6,6 @@ Este repositório contém exercícios e códigos em linguagem C desenvolvidos du
 
 ## 📁 Estrutura
 
-### 📂 `aulas/`
-Conteúdo geral da disciplina.
-
-#### 📂 `aula1/`
-- `aula01.c`: Introdução à linguagem C
-- `exercicio1.c`: Exercício introdutório
-
-#### 📂 `aula2/`
-- `exercicio1.c`: Continuação dos exercícios
-
----
-
 ### 📂 `ceub/`  
 Códigos desenvolvidos durante as aulas no CEUB.
 
