@@ -36,6 +36,7 @@ gcc caminho/para/o/arquivo.c -o nome_do_programa
 
 ---
 
+
 ## ▶️ Como exportar arquivos do Replit para um repositório no GitHub
  
 ### 1. Faça um commit das suas alterações na pasta 📁.git 📂COMMIT_EDITMSG
