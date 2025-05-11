@@ -19,6 +19,12 @@ Códigos desenvolvidos durante as aulas no CEUB.
 #### 📂 `aula3/`
 - `exercicio1.c` a `exercicio9.c`: Série de exercícios com foco em estruturas, laços e lógica de programação.
 
+#### 📂 `aula4/`
+- `exercicio1.c` a `exercicio19.c` : Série de exercícios
+
+#### 📂 `prova1/`
+- `exercicio1.c` a `exercicio5.c` : Primeira avaliação da disciplina
+
 ---
 
 ## ▶️ Como executar os códigos
